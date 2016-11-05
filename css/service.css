@@ -334,7 +334,7 @@ section#kinative-contact-form{
 }
 
 .form-group {
-    margin-bottom: 28px;
+    margin-bottom: 38px;
     margin-left:12.33%;
     margin-right:12.33%;
 }
@@ -362,7 +362,7 @@ section#kinative-contact-form{
 
 #kinative-contact-form .btn-default{
         background: red;
-        width: 132px;
+        width: 150px;
         height: 42px;
         color: #fff;
         font-size: 18px;
@@ -399,6 +399,12 @@ label {
     margin-bottom: 8px;
     font-weight: 700;
     font-size: 18px;
+}
+
+.form-group p{
+     font-size:18px;
+     font-weight:600;
+     margin-bottom:35px;
 }
 
 #footer-section a:hover{
